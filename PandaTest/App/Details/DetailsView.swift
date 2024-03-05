@@ -33,7 +33,7 @@ struct DetailsView: View {
                         .background(Circle().fill(Color.gray))
                 }
                 .padding(.trailing, 20)
-                .padding(.top, 40)
+                .padding(.top, 60)
             }
         }
         .ignoresSafeArea()
